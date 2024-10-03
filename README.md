@@ -68,6 +68,12 @@ Dokumenty testowe:
    • [Plan testów](https://github.com/jprzybytkowska/Dokumenty-Testowe-Projekt-SkillHub/blob/main/PLAN%20TESTO%CC%81W%20SkillHub.pdf)   
    
 
+**Testy API za pomocą Postmana:**    
+Dokumenty testowe:   
+[Testy Jiry](https://github.com/jprzybytkowska/Jira-Postman-tests)    
+[Testy Trello](https://github.com/jprzybytkowska/Trello-Postman-Tests)   
+[Testy CatAPI](https://github.com/jprzybytkowska/TheCatAPI-Postman-Tests)   
+[Testy Reqres.in](https://github.com/jprzybytkowska/reqres.in-Postman-Tests)   
 
 
 
