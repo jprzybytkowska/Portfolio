@@ -1,6 +1,6 @@
 # Portfolio
 ---
-1. O mnie
+**1. O mnie**
 
    Ukończyłam kierunki techniczne z zakresu inżynierii mechanicznej oraz inżynierii produkcji
 wraz ze studiami podyplomowymi z zakresu menadżera projektu. Jednym z moich zadań w
@@ -12,6 +12,10 @@ testów. W 2022 roku rozpoczęłam kurs Testera Manualnego w szkole IT CodersLab
 przygotował mnie do pracy jako testerka, a wynikiem było otrzymanie certyfikatu ISTQB
 Foundation od SJSI.
 
-2. Doświadczenie
+**2. Doświadczenie**
 
+   Zaraz po zakończeniu kursu rozpoczęłam pracę jako Młodszy Analityk IT/Tester manualny w firmie Oponeo.pl. 
+Moje główne obowiązki: testowanie manualne aplikacji WMS, analizowanie oraz raportowanie błędów, sporządzanie dokumentacji
+technicznej, zarządzanie zadaniami oraz wdrażanie nowych funkcjonalności. 
+Przewodnictwo wprowadzeniu nowych funkcjonalności dla magazynu, od momentu zebrania wymagań biznesowych, aż po ostateczne testy.
    
