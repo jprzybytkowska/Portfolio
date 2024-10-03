@@ -70,10 +70,10 @@ Dokumenty testowe:
 
 **Testy API za pomocą Postmana:**    
 Dokumenty testowe:   
-[Testy Jiry](https://github.com/jprzybytkowska/Jira-Postman-tests)    
-[Testy Trello](https://github.com/jprzybytkowska/Trello-Postman-Tests)   
-[Testy CatAPI](https://github.com/jprzybytkowska/TheCatAPI-Postman-Tests)   
-[Testy Reqres.in](https://github.com/jprzybytkowska/reqres.in-Postman-Tests)   
+• [Testy Jiry](https://github.com/jprzybytkowska/Jira-Postman-tests)    
+• [Testy Trello](https://github.com/jprzybytkowska/Trello-Postman-Tests)   
+• [Testy CatAPI](https://github.com/jprzybytkowska/TheCatAPI-Postman-Tests)   
+• [Testy Reqres.in](https://github.com/jprzybytkowska/reqres.in-Postman-Tests)   
 
 
 
