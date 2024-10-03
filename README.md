@@ -32,7 +32,7 @@ Przewodnictwo wprowadzeniu nowych funkcjonalności dla magazynu, od momentu zebr
 **5. Kursy**
 
    • Tester manualny - CodersLab   
-   • Podstawy SQL - Polska Fundacja Przedsiębiorczości [Wykonane zadania](https://github.com/jprzybytkowska/SQL)
+   • Podstawy SQL - Polska Fundacja Przedsiębiorczości [Wykonane zadania](https://github.com/jprzybytkowska/SQL)    
    • Introduction to Cybersecurity - Cisco Networking Academy   
    • Postman - testowanie REST API - Udemy   
    • Kurs podstaw: HTML, CSS, Python, JS, Bubble.io - Fundacja Girls Code Fun  
