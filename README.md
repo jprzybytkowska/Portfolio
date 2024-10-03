@@ -60,8 +60,8 @@ Dokumenty testowe:
 
 • Projekt SkillHub:
 Dokumenty testowe:   
-   Plan testów   
-   Przypadki testowe
+   [Plan testów](https://github.com/jprzybytkowska/Dokumenty-Testowe-Projekt-SkillHub/blob/main/PLAN%20TESTO%CC%81W%20SkillHub.pdf)   
+   
 
 
 
