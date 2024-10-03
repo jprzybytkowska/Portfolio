@@ -53,7 +53,7 @@ Przewodnictwo wprowadzeniu nowych funkcjonalności dla magazynu, od momentu zebr
 
 **8. Moje projekty**
 
-**• Projekt e - przychodnia: **  
+**Projekt e - przychodnia:**  
 Dokumenty testowe:   
    • [Plan testów](https://github.com/jprzybytkowska/Dokumenty-testowe-Projekt-Przychodnia/blob/main/PLAN%20TESTO%CC%81W%20e-przychodnia.pdf)     
    Przypadki testowe   
@@ -63,7 +63,7 @@ Dokumenty testowe:
    
    
 
-**• Projekt SkillHub:**
+**Projekt SkillHub:**
 Dokumenty testowe:   
    • [Plan testów](https://github.com/jprzybytkowska/Dokumenty-Testowe-Projekt-SkillHub/blob/main/PLAN%20TESTO%CC%81W%20SkillHub.pdf)   
    
