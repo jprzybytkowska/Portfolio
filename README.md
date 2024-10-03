@@ -19,3 +19,50 @@ Moje główne obowiązki: testowanie manualne aplikacji WMS, analizowanie oraz r
 technicznej, zarządzanie zadaniami oraz wdrażanie nowych funkcjonalności. 
 Przewodnictwo wprowadzeniu nowych funkcjonalności dla magazynu, od momentu zebrania wymagań biznesowych, aż po ostateczne testy.
    
+**3. Certyfikaty**
+
+   Certyfikat ISTQB Foundation  - Polish Testing Board 8752/CTFL/2022
+
+**4. Kursy**
+
+   Tester manualny - CodersLab
+   Podstawy SQL - Polska Fundacja Przedsiębiorczości
+   Introduction to Cybersecurity - Cisco Networking Academy
+   Postman - testowanie REST API - Udemy
+   Kurs podstaw: HTML, CSS, Python, JS, Bubble.io - Fundacja Girls Code Fun
+
+**5. Wolontariat**
+
+   Fundacja IT Girls - wolontariusz
+
+**6. Narzędzia, które znam**
+
+MS SQL Server - do tworzenia zapytań w języku SQL
+Postman - testowanie API
+Visual Paradigm - do tworzenia diagramów
+Trello, ClickUp, Jira - do zarzadzania testami
+MS Teams, Slack, Discord - do komunikacji w zespole
+Visual Studio Code - edytor kodu
+InteliJ IDEA - edytor kodu Java
+
+**7. Moje projekty**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
