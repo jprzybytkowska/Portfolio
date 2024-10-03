@@ -32,7 +32,7 @@ Przewodnictwo wprowadzeniu nowych funkcjonalności dla magazynu, od momentu zebr
 **5. Kursy**
 
    • Tester manualny - CodersLab   
-   • Podstawy SQL - Polska Fundacja Przedsiębiorczości [Wykonane zadania](https://github.com/jprzybytkowska/SQL)    
+   • Podstawy SQL - Polska Fundacja Przedsiębiorczości   
    • Introduction to Cybersecurity - Cisco Networking Academy   
    • Postman - testowanie REST API - Udemy   
    • Kurs podstaw: HTML, CSS, Python, JS, Bubble.io - Fundacja Girls Code Fun  
@@ -69,14 +69,16 @@ Dokumenty testowe:
    
 
 **Testy API za pomocą Postmana:**    
-Dokumenty testowe:   
+
 • [Testy Jiry](https://github.com/jprzybytkowska/Jira-Postman-tests)    
 • [Testy Trello](https://github.com/jprzybytkowska/Trello-Postman-Tests)   
 • [Testy CatAPI](https://github.com/jprzybytkowska/TheCatAPI-Postman-Tests)   
 • [Testy Reqres.in](https://github.com/jprzybytkowska/reqres.in-Postman-Tests)   
 
 
-
+**SQL**   
+ 
+•[Wykonane zadania](https://github.com/jprzybytkowska/SQL)    
 
 
 
