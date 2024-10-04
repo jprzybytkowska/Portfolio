@@ -22,7 +22,7 @@ Foundation od SJSI.
 
 **Testy wykonane w Systemie Doradcy Zawodowego (SDZ)** zgodnie z międzynarodowymi standardami dla testów, stosowanymi w psychologii i pedagogice, z wykorzystaniem nowoczesnej metody analizy psychometrycznej testów i pozycji testowych IRT.   
 
-[Kwestionariusz zainteresowań zawodowych](https://drive.google.com/file/d/1cEhJA75WGpo0AYzJghpVbehfb9BZefck/view?usp=drive_link)    
+[Kwestionariusz zainteresowań zawodowych](https://drive.google.com/file/d/1px8pkptLQLe_lGf0WYSlz1HYqOM9J1OG/view?usp=drive_link)    
 
 [Badanie kompetencji](https://drive.google.com/file/d/15tlVYUegX1_7q0EkH0aZ4Kmodxs5XAa8/view?usp=drive_link)    
 
