@@ -26,7 +26,8 @@ Foundation od SJSI.
 
 [Badanie kompetencji](https://drive.google.com/file/d/15tlVYUegX1_7q0EkH0aZ4Kmodxs5XAa8/view?usp=drive_link)    
 
-**2. Doświadczenie**
+
+#**2. Doświadczenie**
 
    Zaraz po zakończeniu kursu rozpoczęłam pracę jako Młodszy Analityk IT/Tester manualny. 
 Do moich głównych obowiązków należało testowanie manualne aplikacji WMS (aplikacja na PC oraz mobilna), analizowanie oraz raportowanie błędów, sporządzanie dokumentacji
