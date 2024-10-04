@@ -10,14 +10,22 @@ pracowników produkcyjnych oraz zgłaszanie zespołom zewnętrznym i ostatecznie
 weryfikowanie poprawności realizacji zgłoszeń. Był to początek i pierwszy krok do świata
 testów. W 2022 roku rozpoczęłam kurs Testera Manualnego w szkole IT CodersLab, który
 przygotował mnie do pracy jako testerka, a wynikiem było otrzymanie certyfikatu ISTQB
-Foundation od SJSI.
+Foundation od SJSI.   
+
+**[Moje TOP 5 talentów Gallupa](https://drive.google.com/file/d/1yeA4RT8mD1uAq6rxnDT4P0RfzmE66e0I/view?usp=drive_link) to: **   
+
+Odpowiedzialność - czuję się psychicznie odpowiedzialna za to, co zadeklaruje się zrobić, posiadam wartości takie jak uczciwość i lojalność.   
+Dyscyplina - lubię rutynę i strukturę. Mój świat najlepiej oddaje porządek, jaki wokół siebie wytwarzam.    
+Rozwijanie innych - rozpoznaje i wspieram potencjał, który tkwi w ludziach. Dostrzegam każdą oznakę rozwoju i czerpię z nich satysfakcję.   
+Bliskość - sprawiają mi radość relacje z innymi, czerpię satysfakcję z pracy nad osiągniecięm wspólnego celu.   
+Uczenie się - mam potrzebę nauki i ciągłego doskonalenia.
 
 **2. Doświadczenie**
 
    Zaraz po zakończeniu kursu rozpoczęłam pracę jako Młodszy Analityk IT/Tester manualny. 
 Do moich głównych obowiązków należało testowanie manualne aplikacji WMS (aplikacja na PC oraz mobilna), analizowanie oraz raportowanie błędów, sporządzanie dokumentacji
 technicznej, zarządzanie zadaniami oraz wdrażanie nowych funkcjonalności. 
-Przewodnictwo wprowadzeniu nowych funkcjonalności dla magazynu, od momentu zebrania wymagań biznesowych, aż po ostateczne testy.
+Przewodnictwo wprowadzeniu nowych funkcjonalności dla magazynu, od momentu zebrania wymagań biznesowych, aż po ostateczne testy i opiekę po publikacyjną.
 
 **3. Plan rozwoju**
 
