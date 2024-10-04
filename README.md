@@ -18,7 +18,11 @@ Foundation od SJSI.
 **Dyscyplina** - lubię rutynę i strukturę. Mój świat jest uporządkowany.    
 **Rozwijanie innych** - wspieram potencjał, który tkwi w ludziach. Czerpię satysfakcję z pomocy innym.   
 **Bliskość** - sprawiają mi radość relacje z innymi, czerpię satysfakcję z pracy nad osiągniecięm wspólnego celu.   
-**Uczenie się** - mam potrzebę nauki i ciągłego doskonalenia.
+**Uczenie się** - mam potrzebę nauki i ciągłego doskonalenia.    
+
+[Kwestionariusz zainteresowań zawodowych](https://drive.google.com/file/d/1cEhJA75WGpo0AYzJghpVbehfb9BZefck/view?usp=drive_link)    
+
+[Badanie kompetencji](https://drive.google.com/file/d/15tlVYUegX1_7q0EkH0aZ4Kmodxs5XAa8/view?usp=drive_link)    
 
 **2. Doświadczenie**
 
