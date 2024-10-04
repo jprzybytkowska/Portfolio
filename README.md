@@ -46,7 +46,7 @@ Przewodnictwo wprowadzeniu nowych funkcjonalności dla magazynu, od momentu zebr
 • MS SQL Server - tworzenie zapytań w języku SQL   
 • Postman - testowanie API  
 • Visual Paradigm - tworzenie diagramów   
-• Trello, ClickUp, Jira - zarzadzanie zadaniami
+• Trello, ClickUp, Jira - zarzadzanie zadaniami    
 • MS Teams, Slack, Discord - komunikacja w zespole  
 • Visual Studio Code - edytor kodu  
 • InteliJ IDEA - edytor kodu Java  
