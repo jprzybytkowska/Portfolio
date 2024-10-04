@@ -14,11 +14,11 @@ Foundation od SJSI.
 
 **[Moje TOP 5 talentów Gallupa](https://drive.google.com/file/d/1yeA4RT8mD1uAq6rxnDT4P0RfzmE66e0I/view?usp=drive_link) to:**   
 
-Odpowiedzialność - czuję się psychicznie odpowiedzialna za to, co zadeklaruje się zrobić, posiadam wartości takie jak uczciwość i lojalność.   
-Dyscyplina - lubię rutynę i strukturę. Mój świat najlepiej oddaje porządek, jaki wokół siebie wytwarzam.    
-Rozwijanie innych - rozpoznaje i wspieram potencjał, który tkwi w ludziach. Dostrzegam każdą oznakę rozwoju i czerpię z nich satysfakcję.   
-Bliskość - sprawiają mi radość relacje z innymi, czerpię satysfakcję z pracy nad osiągniecięm wspólnego celu.   
-Uczenie się - mam potrzebę nauki i ciągłego doskonalenia.
+**Odpowiedzialność** - czuję się psychicznie odpowiedzialna za to, co zadeklaruje się zrobić, posiadam wartości takie jak uczciwość i lojalność.   
+**Dyscyplina** - lubię rutynę i strukturę. Mój świat najlepiej oddaje porządek, jaki wokół siebie wytwarzam.    
+**Rozwijanie innych** - rozpoznaje i wspieram potencjał, który tkwi w ludziach. Dostrzegam każdą oznakę rozwoju i czerpię z nich satysfakcję.   
+**Bliskość** - sprawiają mi radość relacje z innymi, czerpię satysfakcję z pracy nad osiągniecięm wspólnego celu.   
+**Uczenie się** - mam potrzebę nauki i ciągłego doskonalenia.
 
 **2. Doświadczenie**
 
