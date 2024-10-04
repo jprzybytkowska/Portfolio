@@ -20,11 +20,11 @@ Foundation od SJSI.
 **Bliskość** - sprawiają mi radość relacje z innymi, czerpię satysfakcję z pracy nad osiągniecięm wspólnego celu.   
 **Uczenie się** - mam potrzebę nauki i ciągłego doskonalenia.    
 
-Testy wykonane w Systemie Doradcy Zawodowego (SDZ) 
+**Testy wykonane w Systemie Doradcy Zawodowego (SDZ)** zgodnie z międzynarodowymi standardami dla testów, stosowanymi w psychologii i pedagogice, z wykorzystaniem nowoczesnej metody analizy psychometrycznej testów i pozycji testowych IRT.   
 
-[Kwestionariusz zainteresowań zawodowych](https://drive.google.com/file/d/1cEhJA75WGpo0AYzJghpVbehfb9BZefck/view?usp=drive_link) - Narzędzie do badania zainteresowań zawodowych i określania preferencji zawodowych w formie kwestionariusza.
+[Kwestionariusz zainteresowań zawodowych](https://drive.google.com/file/d/1cEhJA75WGpo0AYzJghpVbehfb9BZefck/view?usp=drive_link)    
 
-[Badanie kompetencji](https://drive.google.com/file/d/15tlVYUegX1_7q0EkH0aZ4Kmodxs5XAa8/view?usp=drive_link) -  Narzędzie do badań kompetencji zostało wykonane zgodnie z międzynarodowymi standardami dla testów, stosowanymi w psychologii i pedagogice, z wykorzystaniem nowoczesnej metody analizy psychometrycznej testów i pozycji testowych IRT.
+[Badanie kompetencji](https://drive.google.com/file/d/15tlVYUegX1_7q0EkH0aZ4Kmodxs5XAa8/view?usp=drive_link)    
 
 **2. Doświadczenie**
 
