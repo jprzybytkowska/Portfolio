@@ -12,7 +12,7 @@ testów. W 2022 roku rozpoczęłam kurs Testera Manualnego w szkole IT CodersLab
 przygotował mnie do pracy jako testerka, a wynikiem było otrzymanie certyfikatu ISTQB
 Foundation od SJSI.   
 
-**[Moje TOP 5 talentów Gallupa](https://drive.google.com/file/d/1yeA4RT8mD1uAq6rxnDT4P0RfzmE66e0I/view?usp=drive_link) to: **   
+**[Moje TOP 5 talentów Gallupa](https://drive.google.com/file/d/1yeA4RT8mD1uAq6rxnDT4P0RfzmE66e0I/view?usp=drive_link) to:**   
 
 Odpowiedzialność - czuję się psychicznie odpowiedzialna za to, co zadeklaruje się zrobić, posiadam wartości takie jak uczciwość i lojalność.   
 Dyscyplina - lubię rutynę i strukturę. Mój świat najlepiej oddaje porządek, jaki wokół siebie wytwarzam.    
