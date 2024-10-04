@@ -43,11 +43,11 @@ Przewodnictwo wprowadzeniu nowych funkcjonalności dla magazynu, od momentu zebr
 
 **7. Narzędzia, które znam**
 
-• MS SQL Server - do tworzenia zapytań w języku SQL   
+• MS SQL Server - tworzenie zapytań w języku SQL   
 • Postman - testowanie API  
-• Visual Paradigm - do tworzenia diagramów   
-• Trello, ClickUp, Jira - do zarzadzania testami  
-• MS Teams, Slack, Discord - do komunikacji w zespole  
+• Visual Paradigm - tworzenie diagramów   
+• Trello, ClickUp, Jira - zarzadzanie zadaniami
+• MS Teams, Slack, Discord - komunikacja w zespole  
 • Visual Studio Code - edytor kodu  
 • InteliJ IDEA - edytor kodu Java  
 
