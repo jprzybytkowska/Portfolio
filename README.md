@@ -1,6 +1,6 @@
 # Portfolio
 
-**1. O mnie**
+# **1. O mnie**
 
    Ukończyłam kierunki techniczne z zakresu inżynierii mechanicznej oraz inżynierii produkcji
 wraz ze studiami podyplomowymi z zakresu menadżera projektu. Jednym z moich zadań w
@@ -34,17 +34,17 @@ Do moich głównych obowiązków należało testowanie manualne aplikacji WMS (a
 technicznej, zarządzanie zadaniami oraz wdrażanie nowych funkcjonalności. 
 Przewodnictwo wprowadzeniu nowych funkcjonalności dla magazynu, od momentu zebrania wymagań biznesowych, aż po ostateczne testy i opiekę po publikacyjną.
 
-**3. Plan rozwoju**
+# **3. Plan rozwoju**
 
    • testy automatyczne z użyciem Selenium WebDriver na platformie Udemy - w trakcie   
    • studia podyplomowe z zakresu Tester Automatyzujący   
    • szkolenie w zakresie testowania dostępności cyfrowej   
    
-**4. Certyfikaty**
+# **4. Certyfikaty**
 
    Certyfikat ISTQB Foundation  - Polish Testing Board 8752/CTFL/2022
 
-**5. Kursy**
+# **5. Kursy**
 
    • Tester manualny - CodersLab   
    • Podstawy SQL - Polska Fundacja Przedsiębiorczości   
@@ -52,11 +52,11 @@ Przewodnictwo wprowadzeniu nowych funkcjonalności dla magazynu, od momentu zebr
    • Postman - testowanie REST API - Udemy   
    • Kurs podstaw: HTML, CSS, Python, JS, Bubble.io - Fundacja Girls Code Fun  
 
-**6. Wolontariat**
+# **6. Wolontariat**
 
    Fundacja IT Girls - wolontariusz
 
-**7. Narzędzia, które znam**
+# **7. Narzędzia, które znam**
 
 • MS SQL Server - tworzenie zapytań w języku SQL   
 • Postman - testowanie API  
@@ -66,7 +66,7 @@ Przewodnictwo wprowadzeniu nowych funkcjonalności dla magazynu, od momentu zebr
 • Visual Studio Code - edytor kodu  
 • InteliJ IDEA - edytor kodu Java  
 
-**8. Moje projekty**
+# **8. Moje projekty**
 
 
 **Testy API za pomocą Postmana:**    
