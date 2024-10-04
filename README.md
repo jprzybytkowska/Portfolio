@@ -1,5 +1,5 @@
 # Portfolio
----
+-
 **1. O mnie**
 
    Ukończyłam kierunki techniczne z zakresu inżynierii mechanicznej oraz inżynierii produkcji
