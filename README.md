@@ -1,4 +1,3 @@
-# Portfolio
 
 # **1. O mnie**
 
