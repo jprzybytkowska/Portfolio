@@ -3,13 +3,11 @@
 
    Ukończyłam kierunki techniczne z zakresu inżynierii mechanicznej oraz inżynierii produkcji
 wraz ze studiami podyplomowymi z zakresu menadżera projektu. Jednym z moich zadań w
-firmie produkcyjnej, w której pracowałam było zarządzanie testami akceptacyjnymi aplikacji, która wspomagała
-procesy produkcyjne. Kolejno zarządzanie znalezionymi błędami przez podległych
-pracowników produkcyjnych oraz zgłaszanie zespołom zewnętrznym i ostatecznie
-weryfikowanie poprawności realizacji zgłoszeń. Był to początek i pierwszy krok do świata
-testów. W 2022 roku rozpoczęłam kurs Testera Manualnego w szkole IT CodersLab, który
-przygotował mnie do pracy jako testerka, a wynikiem było otrzymanie certyfikatu ISTQB
-Foundation od SJSI.   
+firmie produkcyjnej, w której pracowałam było testowanie akceptacyjnymi aplikacji, która wspomagała
+procesy produkcyjne. Był to początek i pierwszy krok do świata testów. W 2022 roku rozpoczęłam kurs Testera Manualnego w szkole IT CodersLab, który
+przygotował mnie do pracy jako testerka, a wynikiem było otrzymanie certyfikatu ISTQB Foundation od SJSI.
+Zaraz po kursie otrzymałam pierwszą pracę jako junior tester manualny/analityk IT, gdzie zdobyłam swoje pierwsze doświadczenie.
+Nieustannie poszerzam swoją wiedzę, uczestniczę w dodatkowych projektach i należę do Fundacji IT GIRLS jako wolontariuszka.    
 
 **[Moje TOP 5 talentów Gallupa](https://drive.google.com/file/d/1yeA4RT8mD1uAq6rxnDT4P0RfzmE66e0I/view?usp=drive_link) to:**   
 
