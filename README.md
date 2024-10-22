@@ -84,7 +84,8 @@ Przypadki testowe:
 • [Strona logowania front](https://docs.google.com/spreadsheets/d/1Dz729Q3Z0zhLQ1ErEvl2vnZogJzcP1HOTskVsiCakg0/edit?usp=drive_link)    
 • [Strona rejestracji](https://docs.google.com/spreadsheets/d/1BQllDz7C_nhCOElG0e4XuiVRyjWcAJGr6fKVmZ1Jzpg/edit?usp=drive_link)   
             
-   
+Zgłoszenia błędów:   
+• [Zgłoszenie poprawek do frontedu Strony głównej](https://drive.google.com/file/d/12QYOiOYfC98prvUsA6YEcV540SjVXJ-m/view?usp=sharing)   
 
 **Projekt SkillHub:** 
 
