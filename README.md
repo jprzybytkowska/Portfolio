@@ -1,7 +1,7 @@
 
 # **1. O mnie**     
 
-Tester manualny z niespełna dwuletnim doświadczeniem w branży IT, posiadający certyfikat ISTQB Foundation. Moja historia rozpoczęła się od testów aplikacji wspierającej procesy produkcyjne, co rozwinęło moje zainteresowanie jakością oprogramowania. Pierwsze doświadczenie zdobyłam testując aplikacje desktopową oraz mobilną na przenośne skanery dla magazynu. Głównie wykonywałam testy funkcjonalne, retesty i regresji. Łączyłam także pozycje analityka, gdzie dbałam o dokumentacje oraz zarządzanie zadaniami. Zmotywowana do dalszego rozwoju w obszarze zapewniania jakości, aktywnie poszerzam wiedzę poprzez udział w projektach. Poszukuję nowych wyzwań, które pozwolą mi rozwijać umiejętności w testach manualnych, ale także testach automatycznych.    
+Tester manualny z niespełna dwuletnim doświadczeniem w branży IT, posiadający certyfikat ISTQB Foundation. Moja historia rozpoczęła się od testów aplikacji wspierającej procesy produkcyjne, co rozwinęło moje zainteresowanie jakością oprogramowania. Pierwsze doświadczenie w branży IT zdobyłam testując aplikacje desktopową oraz mobilną na przenośne skanery dla magazynu. Głównie wykonywałam testy funkcjonalne, retesty i regresji. Łączyłam także pozycje analityka, gdzie dbałam o dokumentacje oraz zarządzanie zadaniami. Zmotywowana do dalszego rozwoju w obszarze zapewniania jakości, aktywnie poszerzam wiedzę poprzez udział w projektach. Poszukuję nowych wyzwań, które pozwolą mi rozwijać umiejętności w testach manualnych, ale także testach automatycznych.    
 
 **[Moje TOP 5 talentów Gallupa](https://drive.google.com/file/d/1yeA4RT8mD1uAq6rxnDT4P0RfzmE66e0I/view?usp=drive_link) to:**   
 
