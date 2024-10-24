@@ -28,8 +28,8 @@ Przewodnictwo wprowadzeniu nowych funkcjonalności dla magazynu, od momentu zebr
 # **3. Plan rozwoju**
 
    • testy automatyczne z użyciem Selenium WebDriver na platformie Udemy - w trakcie   
-   • studia podyplomowe z zakresu Tester Automatyzujący   
-   • szkolenie w zakresie testowania dostępności cyfrowej   
+   • studia podyplomowe Informatyka stosowana na Uniwersytecie Warmińsko-Mazurskim 
+   • szkolenie w zakresie testowania dostępności cyfrowej na platformie Certes     
    
 # **4. Certyfikaty**
 
