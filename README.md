@@ -28,7 +28,7 @@ Przewodnictwo wprowadzeniu nowych funkcjonalności dla magazynu, od momentu zebr
 # **3. Plan rozwoju**
 
    • testy automatyczne z użyciem Selenium WebDriver na platformie Udemy - w trakcie   
-   • studia podyplomowe Informatyka stosowana na Uniwersytecie Warmińsko-Mazurskim 
+   • studia podyplomowe Informatyka stosowana na Uniwersytecie Warmińsko-Mazurskim      
    • szkolenie w zakresie testowania dostępności cyfrowej na platformie Certes     
    
 # **4. Certyfikaty**
