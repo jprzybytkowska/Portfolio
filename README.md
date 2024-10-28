@@ -45,7 +45,7 @@ Przewodnictwo wprowadzeniu nowych funkcjonalności dla magazynu, od momentu zebr
 
 # **6. Wolontariat**
 
-   Fundacja IT Girls - wolontariusz
+   Fundacja IT Girls - koordynator wolontariuszy w regionie kujawsko-pomorskim     
 
 # **7. Narzędzia, które znam**
 
