@@ -80,6 +80,7 @@ Przypadki testowe:
             
 Zgłoszenia błędów:   
 • [Zgłoszenie poprawek do frontendu Strony głównej](https://drive.google.com/file/d/12QYOiOYfC98prvUsA6YEcV540SjVXJ-m/view?usp=sharing)   
+• [Zgłoszenie błędu walidacji na stronie logowania użytkownika](https://drive.google.com/file/d/1bTFVvZoyhC0Ro7HZ2orzd_1EBhnshbzT/view?usp=sharing)     
 
 **Projekt SkillHub:** 
 
