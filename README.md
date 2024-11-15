@@ -26,9 +26,9 @@ technicznej, zarządzanie zadaniami oraz wdrażanie nowych funkcjonalności.
 Przewodnictwo wprowadzeniu nowych funkcjonalności dla magazynu, od momentu zebrania wymagań biznesowych, aż po ostateczne testy i opiekę po publikacyjną.
 
 # **3. Plan rozwoju**
-
-   • testy automatyczne z użyciem Selenium WebDriver na platformie Udemy - w trakcie   
-   • studia podyplomowe Informatyka stosowana na Uniwersytecie Warmińsko-Mazurskim      
+          
+   • Informatyka stosowana - studia podyplomowe Uniwersytet Warmińsko-Mazurski w Olsztynie - w trakcie     
+   • testy automatyczne z użyciem Selenium WebDriver na platformie Udemy - w trakcie       
    • szkolenie w zakresie testowania dostępności cyfrowej na platformie Certes     
    
 # **4. Certyfikaty**
