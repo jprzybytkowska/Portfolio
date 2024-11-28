@@ -27,7 +27,7 @@ Przewodnictwo wprowadzeniu nowych funkcjonalności dla magazynu, od momentu zebr
 
 # **3. Plan rozwoju**
           
-   • Informatyka stosowana - studia podyplomowe Uniwersytet Warmińsko-Mazurski w Olsztynie - 11.2024-06.2025     
+   • Informatyka stosowana - studia podyplomowe Uniwersytet Warmińsko-Mazurski w Olsztynie - w trakcie do 06.2025     
    • testy automatyczne z użyciem Selenium WebDriver na platformie Udemy - w trakcie       
    • szkolenie w zakresie testowania dostępności cyfrowej     
    
