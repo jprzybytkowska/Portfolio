@@ -40,8 +40,9 @@ Przewodnictwo wprowadzeniu nowych funkcjonalności dla magazynu, od momentu zebr
    • Tester manualny - CodersLab   
    • Podstawy SQL - Polska Fundacja Przedsiębiorczości   
    • Introduction to Cybersecurity - Cisco Networking Academy   
-   • Postman - testowanie REST API - Udemy   
-   • Kurs podstaw: HTML, CSS, Python, JS, Bubble.io - Fundacja Girls Code Fun  
+   • Postman - testowanie REST API - Udemy     
+   • Kurs Selenium Java od podstaw - Udemy     
+   • Kurs podstaw: HTML, CSS, Python, JS, Bubble.io - Fundacja Girls Code Fun    
 
 # **6. Wolontariat**
 
@@ -51,6 +52,7 @@ Przewodnictwo wprowadzeniu nowych funkcjonalności dla magazynu, od momentu zebr
 
 • MS SQL Server - tworzenie zapytań w języku SQL   
 • Postman - testowanie API  
+• TestLink - zarządzanie testami          
 • Visual Paradigm - tworzenie diagramów   
 • Trello, ClickUp, Jira - zarzadzanie zadaniami    
 • MS Teams, Slack, Discord - komunikacja w zespole  
