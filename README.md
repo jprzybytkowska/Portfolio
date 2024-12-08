@@ -87,7 +87,7 @@ Zgłoszenia błędów:
 **Projekt DevPlace:** 
 
 Dokumenty testowe:   
-• [Plan testów](https://github.com/jprzybytkowska/Dokumenty-Testowe-Projekt-SkillHub/blob/main/PLAN%20TESTO%CC%81W%20SkillHub.pdf)   
+• [Plan testów](https://github.com/jprzybytkowska/Dokumenty-Testowe-Projekt-DevPlace/blob/main/PLAN%20TESTO%CC%81W%20DevPlace.pdf)     
 
 
 **SQL**   
