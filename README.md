@@ -92,10 +92,11 @@ Dokumenty testowe:
 
 **SQL**   
  
-•[Wykonane zadania](https://github.com/jprzybytkowska/SQL)    
+• [Wykonane zadania](https://github.com/jprzybytkowska/SQL)    
 
+**Testy automatyczne w Selenium z java**     
 
-
+• Testy automatyczne strony http://www.kurs-selenium.pl/demo/ [TravelProject](https://github.com/jprzybytkowska/TravelProject/tree/main/TravelProjects/src/test/java/pl.seleniumdemo/tests)    
 
 
 
