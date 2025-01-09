@@ -89,6 +89,12 @@ Zgłoszenia błędów:
 Dokumenty testowe:   
 • [Plan testów](https://github.com/jprzybytkowska/Dokumenty-Testowe-Projekt-DevPlace/blob/main/PLAN%20TESTO%CC%81W%20DevPlace.pdf)     
 
+**Dokumentacja testowa sklepu Decathlon**     
+
+• [Plan testów](https://docs.google.com/document/d/1vPQJwPR9Zqy323OQMzcZlo2NsywXSPF_zSABJawlGA4/edit?usp=drive_link)    
+• [Scenariusze testowe](https://docs.google.com/spreadsheets/d/1GJIUjJ9pTEyZzmNV_twguOPdvx3ucVHz/edit?usp=drive_link&ouid=110830269801498787777&rtpof=true&sd=true)   
+• [Przypadki testowe](https://docs.google.com/spreadsheets/d/1k8q9jFljIJ1bwHvF7kAARuh6FBAjNrtY5lLZ_rqDDnE/edit?usp=drive_link)   
+• [Zgłoszenia błędów](https://docs.google.com/spreadsheets/d/1CYFNeVatJNTrX0FXZFcrdT3SscjI2NH5UA7Jim2LK2U/edit?usp=drive_link)   
 
 **SQL**   
  
