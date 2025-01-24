@@ -28,7 +28,7 @@ Przewodnictwo wprowadzeniu nowych funkcjonalności dla magazynu, od momentu zebr
 # **3. Plan rozwoju**
           
    • Informatyka stosowana - studia podyplomowe Uniwersytet Warmińsko-Mazurski w Olsztynie - w trakcie do 06.2025     
-   • testy automatyczne z użyciem Selenium WebDriver na platformie Udemy - w trakcie       
+   • Selenium z C# - kurs udemy
    • szkolenie w zakresie testowania dostępności cyfrowej     
    
 # **4. Certyfikaty**
@@ -52,12 +52,12 @@ Przewodnictwo wprowadzeniu nowych funkcjonalności dla magazynu, od momentu zebr
 
 • MS SQL Server - tworzenie zapytań w języku SQL   
 • Postman - testowanie API  
-• TestLink - zarządzanie testami          
 • Visual Paradigm - tworzenie diagramów   
 • Trello, ClickUp, Jira - zarzadzanie zadaniami    
 • MS Teams, Slack, Discord - komunikacja w zespole  
 • Visual Studio Code - edytor kodu  
 • InteliJ IDEA - edytor kodu Java  
+• Confluence
 
 # **8. Moje projekty**
 
