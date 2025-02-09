@@ -1,7 +1,7 @@
 
 # **1. O mnie**     
 
-Testerka manualna z niespełna dwuletnim doświadczeniem w branży IT, posiadająca certyfikat ISTQB Foundation. Pierwsze doświadczenie w branży IT zdobyłam testując aplikacje desktopową oraz mobilną na przenośne skanery dla magazynu. Zmotywowana do dalszego rozwoju w obszarze zapewniania jakości, aktywnie poszerzam wiedzę poprzez udział w projektach. Poszukuję nowych wyzwań, które pozwolą mi rozwijać umiejętności w testach manualnych, ale także testach automatycznych.    
+Testerka manualna z niespełna dwuletnim doświadczeniem w branży IT, posiadająca certyfikat ISTQB Foundation. Pierwsze doświadczenie w branży IT zdobyłam testując aplikacje desktopową oraz mobilną na przenośne skanery dla magazynu. Zmotywowana do dalszego rozwoju w obszarze zapewniania jakości, aktywnie poszerzam wiedzę poprzez udział w projektach realizowanych hobbistycznie, probono.
 
 **[Moje TOP 5 talentów Gallupa](https://drive.google.com/file/d/1yeA4RT8mD1uAq6rxnDT4P0RfzmE66e0I/view?usp=drive_link) to:**   
 
@@ -24,12 +24,13 @@ Testerka manualna z niespełna dwuletnim doświadczeniem w branży IT, posiadaj�
 Do moich głównych obowiązków należało testowanie manualne aplikacji WMS (aplikacja na PC oraz mobilna), analizowanie oraz raportowanie błędów, sporządzanie dokumentacji
 technicznej, zarządzanie zadaniami oraz wdrażanie nowych funkcjonalności. 
 Przewodnictwo wprowadzeniu nowych funkcjonalności dla magazynu, od momentu zebrania wymagań biznesowych, aż po ostateczne testy i opiekę po publikacyjną.
+Aktualnie pracuje na stanowisku Inżyniera ds. jakości systemów informatycznych w branży medycznej, gdzie rozwijam swoje umiejętności w testowaniu manualnym oraz automatycznym.      
 
 # **3. Plan rozwoju**
           
-   • Informatyka stosowana - studia podyplomowe Uniwersytet Warmińsko-Mazurski w Olsztynie - w trakcie do 06.2025     
+   • Informatyka stosowana - studia podyplomowe Uniwersytet Warmińsko-Mazurski w Olsztynie - w trakcie do 05.2025     
    • Selenium z C# - kurs udemy
-   • szkolenie w zakresie testowania dostępności cyfrowej     
+   • szkolenie w zakresie testowania dostępności cyfrowej               
    
 # **4. Certyfikaty**
 
