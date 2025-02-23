@@ -1,7 +1,7 @@
 
 # **1. O mnie**     
 
-Testerka manualna z dwuletnim doświadczeniem w branży IT, posiadająca certyfikat ISTQB Foundation. Pierwsze doświadczenie w branży IT zdobyłam testując aplikacje desktopową oraz mobilną na przenośne skanery dla magazynu. Aktualnie pracuje w branży medycznej. Zmotywowana do dalszego rozwoju w obszarze zapewniania jakości, aktywnie poszerzam wiedzę poprzez udział w projektach realizowanych hobbistycznie, probono.
+Jestem testerką manualna z dwuletnim doświadczeniem w branży IT, posiadam certyfikat ISTQB Foundation. Pierwsze doświadczenie w branży IT zdobyłam testując aplikacje desktopową oraz mobilną na przenośne skanery dla magazynu. Aktualnie pracuje w branży medycznej. Zmotywowana do dalszego rozwoju w obszarze zapewniania jakości, aktywnie poszerzam wiedzę poprzez udział w projektach realizowanych hobbistycznie, probono.
 
 **[Moje TOP 5 talentów Gallupa](https://drive.google.com/file/d/1yeA4RT8mD1uAq6rxnDT4P0RfzmE66e0I/view?usp=drive_link) to:**   
 
