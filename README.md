@@ -29,7 +29,7 @@ Aktualnie pracuje na stanowisku Inżyniera ds. jakości systemów informatycznyc
 # **3. Plan rozwoju**
           
    • Informatyka stosowana - studia podyplomowe Uniwersytet Warmińsko-Mazurski w Olsztynie - w trakcie do 05.2025     
-   • Selenium z C# - kurs udemy
+   • Selenium z C# - kurs udemy        
    • szkolenie w zakresie testowania dostępności cyfrowej               
    
 # **4. Certyfikaty**
