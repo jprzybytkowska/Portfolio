@@ -27,8 +27,7 @@ Przewodnictwo wprowadzeniu nowych funkcjonalności dla magazynu, od momentu zebr
 Aktualnie pracuje na stanowisku Inżyniera ds. jakości systemów informatycznych w branży medycznej, gdzie rozwijam swoje umiejętności w testowaniu manualnym oraz automatycznym.      
 
 # **3. Plan rozwoju**
-          
-   • Informatyka stosowana - studia podyplomowe Uniwersytet Warmińsko-Mazurski w Olsztynie - w trakcie do 05.2025     
+             
    • Selenium z C# - kurs udemy        
    • szkolenie w zakresie testowania dostępności cyfrowej               
    
@@ -36,8 +35,9 @@ Aktualnie pracuje na stanowisku Inżyniera ds. jakości systemów informatycznyc
 
    Certyfikat ISTQB Foundation  - Polish Testing Board 8752/CTFL/2022
 
-# **5. Kursy**
-
+# **5. Wykształcenie i kursy**
+    
+   • Informatyka stosowana - studia podyplomowe Uniwersytet Warmińsko-Mazurski w Olsztynie - 11.2024-05.2025      
    • Tester manualny - CodersLab   
    • Podstawy SQL - Polska Fundacja Przedsiębiorczości   
    • Introduction to Cybersecurity - Cisco Networking Academy   
